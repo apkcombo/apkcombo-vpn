@@ -29,6 +29,5 @@
 ![APKCombo VPN 1](screenshots/apkcombo-vpn1.png)
 ![APKCombo VPN 1](screenshots/apkcombo-vpn2.png)
 ![APKCombo VPN 1](screenshots/apkcombo-vpn3.png)
-![APKCombo VPN 1](screenshots/apkcombo-vpn4.png)
 ![APKCombo VPN 1](screenshots/apkcombo-vpn5.png)
 
