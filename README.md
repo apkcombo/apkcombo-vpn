@@ -4,7 +4,7 @@
 # APKCombo VPN - CloudFlare Warp+ for Windows
 A high performance VPN client that uses the CloudFlare WARP+.
 
-> Made by [J2TEAM Community](https://www.facebook.com/groups/j2team.community/) and sponsored by [APKCombo APK Downloader](https://apkcombo.com)
+> Made by <img src="https://github.com/apkcombo/apkcombo-vpn/blob/master/j2team/j2team-01.png" height="32"> [J2TEAM Community](https://www.facebook.com/groups/j2team.community/) and sponsored by <img src="https://apkcombo.com/static/icons/icon-192.png" height="32"> [APKCombo APK Downloader](https://apkcombo.com)
 
 ## Features
 - Free High Performance VPN from Cloudflare WARP+
