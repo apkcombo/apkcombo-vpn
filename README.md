@@ -1,4 +1,3 @@
-
 <p align="center"><a href="https://apkcombo.com/?utm_source=apkcombo-vpn-github" target="_blank" rel="noopener noreferrer"><img src="screenshots/apkcombo-vpn-0.png" alt="APKCombo VPN"></a></p>
 
 # APKCombo VPN - CloudFlare Warp+ for Windows
@@ -9,11 +8,11 @@
 
 ## Installation (Windows 7, 8, 10)
 
-- Download [apkcombovpn-0.1.0.msi](https://github.com/apkcombo/apkcombo-vpn/raw/master/apkcombovpn-0.1.0.msi) (**Windows 64 bit**)
+- Download [apkcombovpn-0.1.0.msi](https://github.com/apkcombo/apkcombo-vpn/raw/master/apkcombovpn-0.1.0.msi) (Windows 64 bit)
 
-- Download [apkcombovpn-x86-0.1.0.msi](https://github.com/apkcombo/apkcombo-vpn/raw/master/apkcombovpn-x86-0.1.0.msi) (**Windows 32 bit**)
+- Download [apkcombovpn-x86-0.1.0.msi](https://github.com/apkcombo/apkcombo-vpn/raw/master/apkcombovpn-x86-0.1.0.msi) (Windows 32 bit)
 
-## Quick start
+## Quick Start
 
 **Step 1:** Open **APKCombo VPN**.
 
