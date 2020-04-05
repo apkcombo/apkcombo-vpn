@@ -20,7 +20,7 @@ Download for Windows 7, 8, 10
 
 **Step 2:** Click **"Active CloudFlare WARP+ VPN"** Button
 
-**Step 3:** Click **"Active"** Button
+**Step 3:** Click **"Active"** Button to active "warpplus" Tunnel
 
 ## How to check WARP+ is enabled and working
 - [Click here to check WARP+](https://apkcombo.com/cdn-cgi/trace)
