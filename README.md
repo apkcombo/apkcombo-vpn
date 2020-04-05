@@ -1,13 +1,17 @@
 
 # APKCombo VPN - CloudFlare Warp+ for Windows
+A high performance VPN client that uses the CloudFlare WARP+.
 
 ## Features
-- Free High Speed VPN from  Cloudflare Warp+
+- Free High Performance VPN from Cloudflare Warp+
 - Simple & Easy-to-use
 
-## Download
-- Link 1
-- Link 2
+
+## Installation
+
+- **Windows 64 bit**: [apkcombovpn-0.1.0.msi](https://github.com/apkcombo/apkcombo-vpn/raw/master/apkcombovpn-0.1.0.msi)
+
+- **Windows 32 bit**: [apkcombovpn-x86-0.1.0.msi](https://github.com/apkcombo/apkcombo-vpn/raw/master/apkcombovpn-x86-0.1.0.msi)
 
 ## Quick start
 
