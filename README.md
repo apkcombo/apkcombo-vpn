@@ -3,7 +3,7 @@
 A high performance VPN client that uses the CloudFlare WARP+.
 
 ## Features
-- Free High Performance VPN from Cloudflare Warp+
+- Free High Performance VPN from Cloudflare WARP+
 - Simple & Easy-to-use
 
 
@@ -21,6 +21,10 @@ Download for Windows 7, 8, 10
 **Step 2:** Click **"Active CloudFlare WARP+ VPN"** Button
 
 **Step 3:** Click **"Active"** Button
+
+## How to check WARP+ is enabled and working
+- [Click here to check WARP+](https://apkcombo.com/cdn-cgi/trace)
+- You should see a line at the bottom such as `warp=plus` or `warp=off`
 
 ## Screenshots
 
