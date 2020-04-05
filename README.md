@@ -1,10 +1,10 @@
 
-<p align="center"><a href="https://apkcombo.com/?utm_source=apkcombo-vpn-github" target="_blank" rel="noopener noreferrer"><img width="100" src="screenshots/apkcombo-vpn-0.png" alt="APKCombo VPN"></a></p>
+<p align="center"><a href="https://apkcombo.com/?utm_source=apkcombo-vpn-github" target="_blank" rel="noopener noreferrer"><img src="screenshots/apkcombo-vpn-0.png" alt="APKCombo VPN"></a></p>
 
 # APKCombo VPN - CloudFlare Warp+ for Windows
 A high performance VPN client that uses the CloudFlare WARP+.
 
-> Made by <img src="https://github.com/apkcombo/apkcombo-vpn/blob/master/j2team/j2team-01.png" height="32"> [J2TEAM Community](https://www.facebook.com/groups/j2team.community/) and sponsored by <img src="https://apkcombo.com/static/icons/icon-48.png" height="32"> [APKCombo APK Downloader](https://apkcombo.com)
+> Made by <img src="https://github.com/apkcombo/apkcombo-vpn/blob/master/j2team/j2team-01.png" height="24"> [J2TEAM Community](https://www.facebook.com/groups/j2team.community/) and sponsored by <img src="https://apkcombo.com/static/icons/icon-48.png" height="24"> [APKCombo APK Downloader](https://apkcombo.com)
 
 ## Features
 - Free High Performance VPN from Cloudflare WARP+
