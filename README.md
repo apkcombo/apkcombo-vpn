@@ -1,4 +1,6 @@
 
+<p align="center"><a href="https://apkcombo.com/" target="_blank" rel="noopener noreferrer"><img width="100" src="https://apkcombo.com/static/icons/icon-192.png" alt="APKCombo VPN"></a></p>
+
 # APKCombo VPN - CloudFlare Warp+ for Windows
 A high performance VPN client that uses the CloudFlare WARP+.
 
