@@ -8,6 +8,7 @@ A high performance VPN client that uses the CloudFlare WARP+.
 
 
 ## Installation
+Download for Windows 7, 8, 10
 
 - **Windows 64 bit**: [apkcombovpn-0.1.0.msi](https://github.com/apkcombo/apkcombo-vpn/raw/master/apkcombovpn-0.1.0.msi)
 
@@ -15,7 +16,7 @@ A high performance VPN client that uses the CloudFlare WARP+.
 
 ## Quick start
 
-**Step 1:** Open APKCombo VPN
+**Step 1:** Open **APKCombo VPN**
 
 **Step 2:** Click **"Active CloudFlare WARP+ VPN"** Button
 
